@@ -1,5 +1,5 @@
 # 💫 About Me:
-An IIT Graduate.<br>Full stack developer<br>Loves creating beautiful Ui's<br>Interested in blockchain development and web3<br>Love playing table tennis,cricket and chess.<br>Feel free to connect
+Full stack engineer<br>Loves creating product from scratch<br>Interested in blockchain development and web3<br>Love playing table tennis,cricket and chess.<br>An IIT Graduate.<br>Feel free to connect
 
 
 ## 🌐 Socials:
